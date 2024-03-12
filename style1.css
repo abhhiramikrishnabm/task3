@@ -1,0 +1,95 @@
+.fa-spa{
+    font-size: 25px;
+    margin-left: 10px;
+}
+.button{
+    border-radius: 5rem;
+    color: white;
+    background-color: black;
+    width: 110px;
+    height: 30px;
+    text-align: center;
+    margin-top: 30px;
+    cursor: pointer;
+
+}
+.home{
+    
+    min-height: 100vh;
+    background: url(Frame\ 33.png) no-repeat;
+    background-size: 100%;
+    background-position:center;
+    
+}
+h3{
+    color: rgba(80, 77, 77, 0.856);
+}
+.aaa{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-family: Aeonik;
+    font-size: 18px;
+    font-weight: 250;
+}
+.para{
+    font-weight: 500;
+    font-family: Lora;
+    font-size: 25.55px;
+}
+.fa-circle-right{
+    font-size: 20px;
+}
+.para2{
+    font-size: 25px;
+    font-family: Lora;
+    font-weight: 600; 
+}
+.card-img-top{
+    width: 286px;
+    height: 409.51px;
+    
+    
+}
+.image{
+    width: 100%;
+    height: 100%;
+    padding-left: 30px ;
+}
+.image1{
+   width: 100%;  
+   height: 100%; 
+   padding-right: 10px;
+}
+.image2{
+    width: 100%;
+    padding: 20px;
+}
+footer{
+    background-color: #F3F3F3;
+    
+    
+    
+}
+.footer-content0{
+    margin-left: 10px;
+}
+.footer-content1{
+   margin-left: 150px;
+}
+.footer-content2{
+    margin-left: 150px;
+}
+.card{
+    margin: 0.2em;
+    width: calc(100%/4);
+}
+.post{
+    position: relative;
+}
+.btn{
+    position: absolute;
+}
+.para3{
+    font-size: 40px;
+}
